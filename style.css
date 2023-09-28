@@ -66,6 +66,14 @@ a:hover {
   cursor: default;
 }
 
+/* logo border design */
+.circularlogo {
+  width: 60px; 
+  height: 60px; 
+  border: 1px solid; 
+  border-radius: 50%;
+}
+
 /* HAMBURGER MENU */
 
 #hamburger-nav {
