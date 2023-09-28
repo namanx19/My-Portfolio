@@ -74,6 +74,13 @@ a:hover {
   border-radius: 50%;
 }
 
+.mobilecircularlogo {
+  width: 40px; 
+  height: 40px; 
+  border: 1px solid; 
+  border-radius: 50%;
+}
+
 /* HAMBURGER MENU */
 
 #hamburger-nav {
